@@ -1,6 +1,6 @@
 import React from 'react';
 import { HERO_CONTENT } from '../constants';
-import photo from '../assets/kevinRushprofile.jpg'
+import {photo }from '../assets/kevinRushprofile.jpg'
 import { motion } from "framer-motion";
 import { FaHandMiddleFinger } from 'react-icons/fa';
 
